@@ -3,7 +3,7 @@ Using a raspberry pi &amp; servo motor to release toys for corgi doggo, Muffin.
 
 ## In Action
 (Muffin the corgi pictured at the end)
-##
+###
 ![](toy_dispenser.gif)
 
 ## Dependencies
