@@ -8,3 +8,5 @@ Using a raspberry pi &amp; servo motor to release toys for corgi doggo, Muffin.
 ## Inspired by
 * https://www.youtube.com/watch?v=ddlDgUymbxc
 * https://storiknow.com/automatic-cat-feeder-using-raspberry-pi-part-three/
+
+![](toy_dispenser.gif)
